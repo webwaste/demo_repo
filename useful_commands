@@ -12,4 +12,4 @@ git config --global user.name "Your Name"
 
 git commit -m "This is a comment"
 
-
+after deleting the files we use git add and git commit before push
