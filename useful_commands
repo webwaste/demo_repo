@@ -28,3 +28,4 @@ git checkout feature
 git commit 
 git checkout main
 git commit
+git merge feature
