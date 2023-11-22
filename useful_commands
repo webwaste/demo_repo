@@ -20,3 +20,5 @@ git stash pop
 git stash clear
 
 git remote add origin https://github.com/webwaste/demo_repo.git
+git remote -v 
+show the urls attached to the repository
