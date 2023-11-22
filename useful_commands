@@ -1,0 +1,8 @@
+git init  
+To initiate a repository
+
+git status 
+to check the status of the untracked files
+
+git add
+
