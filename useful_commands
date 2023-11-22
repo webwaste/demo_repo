@@ -22,3 +22,9 @@ git stash clear
 git remote add origin https://github.com/webwaste/demo_repo.git
 git remote -v 
 show the urls attached to the repository
+
+git branch feature 
+git checkout feature 
+git commit 
+git checkout main
+git commit
