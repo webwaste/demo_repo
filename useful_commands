@@ -6,3 +6,10 @@ to check the status of the untracked files
 
 git add
 
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git commit -m "This is a comment"
+
+
